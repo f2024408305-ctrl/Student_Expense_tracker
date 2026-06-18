@@ -1,25 +1,25 @@
 # Dashboard Module
-
 print("Dashboard Loaded")
 
 from tkinter import *
-
-import database
-from add_expense import open_add_expense_window
+import database  
+from view_expense import open_view_expenses_window  # Imports your view window
+from add_expense import open_add_expense_window    # Imports your add window
 
 def open_add_expense():
     open_add_expense_window(root)
 
 def open_view_expense():
-    print("View Expense Module")
+    open_view_expenses_window(root)  # Connected cleanly!
 
 def open_summary():
     print("Summary Module")
 
 root = Tk()
-database.initialize_db()
 root.title("Student Expense Tracker")
 root.geometry("500x400")
+
+# Activates and sets up the SQLite tables when the app boots
 database.initialize_db()
 
 title = Label(root, text="Student Expense Tracker", font=("Arial", 18))

@@ -59,3 +59,5 @@ def open_add_expense_window(parent_window):
     # 4. Save Button
     save_btn = tk.Button(add_win, text="Save Expense", command=handle_save, bg="#2ecc71", fg="white", width=15, font=("Arial", 10, "bold"))
     save_btn.pack(pady=25)
+
+    
