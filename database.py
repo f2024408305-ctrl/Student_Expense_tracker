@@ -30,7 +30,6 @@ def add_expense(title, amount, category, date_str):
     conn = get_connection()
     cursor = conn.cursor()
     
-    # Using '?' placeholders protects your application from SQL injection attacks
     cursor.execute("""
         INSERT INTO expenses (title, amount, category, date)
         VALUES (?, ?, ?, ?)
@@ -41,8 +40,18 @@ def add_expense(title, amount, category, date_str):
     print(f"Successfully saved to database: {title}")
 
 
-# This block ensures the code below ONLY runs if you run database.py directly.
-# When dashboard.py or add_expense.py imports this file, this test code is ignored.
+def fetch_all_expenses():
+    """Fetches all rows from the expenses table, ordered by newest date first."""
+    conn = get_connection()
+    cursor = conn.cursor()
+    
+    cursor.execute("SELECT id, title, amount, category, date FROM expenses ORDER BY date DESC")
+    rows = cursor.fetchall()
+    
+    conn.close()
+    return rows  # Sends the data back to the Treeview table!
+
+
 if __name__ == "__main__":
     print("--- Running Database Test ---")
     initialize_db()
