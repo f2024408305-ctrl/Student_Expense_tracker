@@ -1,0 +1,7 @@
+# Ignore the SQLite database file
+*.db
+expenses.db
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
