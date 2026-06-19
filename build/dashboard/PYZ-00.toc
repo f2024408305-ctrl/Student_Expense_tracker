@@ -1,0 +1,573 @@
+('D:\\New folder\\student_expense_tracker\\build\\dashboard\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('add_expense',
+   'D:\\New folder\\student_expense_tracker\\add_expense.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\csv.py',
+   'PYMODULE'),
+  ('database',
+   'D:\\New folder\\student_expense_tracker\\database.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\socket.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('summary',
+   'D:\\New folder\\student_expense_tracker\\summary.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('view_expense',
+   'D:\\New folder\\student_expense_tracker\\view_expense.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Muhammad '
+   'Zain\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])

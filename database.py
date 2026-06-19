@@ -52,8 +52,38 @@ def fetch_all_expenses():
     return rows  # Sends the data back to the Treeview table!
 
 
-if __name__ == "__main__":
-    print("--- Running Database Test ---")
-    initialize_db()
-    add_expense("Test Coffee", 4.50, "Food", "2026-06-18")
-    print("--- Test Finished Without Errors! ---")
+
+
+def fetch_expense_summary():
+    """Calculates total spending and aggregates totals grouped by category."""
+    conn = get_connection()
+    cursor = conn.cursor()
+    
+    # 1. Get overall total spending
+    cursor.execute("SELECT SUM(amount) FROM expenses")
+    total_result = cursor.fetchone()[0]
+    total_spent = total_result if total_result is not None else 0.0
+    
+    # 2. Get total breakdown per category, ordered by highest spent first
+    cursor.execute("""
+        SELECT category, SUM(amount) 
+        FROM expenses 
+        GROUP BY category 
+        ORDER BY SUM(amount) DESC
+    """)
+    category_breakdown = cursor.fetchall()
+    
+    conn.close()
+    return total_spent, category_breakdown
+
+def delete_expense(expense_id):
+    """Deletes a specific expense record based on its unique ID."""
+    conn = get_connection()
+    cursor = conn.cursor()
+    
+    # Use parameterized query '?' to prevent accidental deletions or SQL injection
+    cursor.execute("DELETE FROM expenses WHERE id = ?", (expense_id,))
+    
+    conn.commit()
+    conn.close()
+    print(f"Record with ID {expense_id} deleted successfully.")
