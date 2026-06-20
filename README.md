@@ -10,13 +10,21 @@ A highly modular, lightweight, desktop-based GUI utility engineered to empower s
 
 ----------------------------
 
-Project Members :-
+---
 
-Talal Haider (Team lead)
-Naseebullah
-Nasar Ahmed
-Muhammad Zain 
-Sultan Moatasim
+## 👥 Core Project Contributors & Credits
+
+This application was collaboratively planned, engineered, and maintained by a cross-functional development team of 5 members[cite: 1]:
+
+| Contributor | GitHub Profile | Primary Engineering Commitments |
+| :--- | :--- | :--- |
+| **Talal Haider** <br> *(Group Lead)* | [@f2024408305-ctrl](https://github.com/f2024408305-ctrl) | **DevOps & App Architecture Coordination**<br>• Configured project workspace tracking & repository management.<br>• Authored initial `main.py` controller initialization routines.<br>• Managed agile branch integrations, pull requests, and terminal conflict resolution loops. |
+| **Sultan Moatasim** <br> *(Core UI Architect)* | [@Sultanmotasim](https://github.com/Sultanmotasim) | **GUI Engineering & Binary Packaging**<br>• Architected the main 2x2 grid management dashboard interface inside `dashboard.py`.<br>• Designed the multi-card layout constraints for responsive screen expansion.<br>• Managed compiling steps to bundle raw source scripts down to the standalone standalone binary `.exe`. |
+| **Neseebullah** <br> *(Backend Developer)* | [@Naseebullah-Dev](https://github.com) | **Database Integrity & Data Storage**<br>• Built out the local persistence model backend scripts inside `database.py`.<br>• Wrote automated setup functions ensuring tables auto-configure upon system execution.<br>• Validated relational tracking rules ensuring schema data updates flawlessly. |
+| **Nasar Ahmed** <br> *(Feature Engineer)* | [@Nasar-Ahmed](https://github.com) | **Data Validation Form Components**<br>• Engineered the `add_expense.py` transactional inputs interface dashboard.<br>• Integrated defensive validation checking logic to reject corrupt entry inputs.<br>• Created custom routing rules to handle miscellaneous inputs smoothly under specialized fields. |
+| **Muhammad Zain** <br> *(Data Analyst)* | [@Muhammad-Zain](https://github.com) | **Analytical Breakdown Summaries**<br>• Developed the backend query metrics tools inside `summary.py` and `view_expense.py`.<br>• Set up internal matrix tables tracking cumulative financial totals dynamically.<br>• Coded category query distribution logic to calculate accurate spending arrays. |
+
+---
 
 
 ----------------------------
