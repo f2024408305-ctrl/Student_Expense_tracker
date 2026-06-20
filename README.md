@@ -8,7 +8,18 @@
 
 A highly modular, lightweight, desktop-based GUI utility engineered to empower students with localized financial data tracking and behavioral spending analysis. Built entirely using a decoupled native Python stack (**Tkinter/ttk** and **SQLite3**), this application eliminates third-party cloud data dependencies, operating with zero latency and absolute cryptographic data privacy.
 
----
+----------------------------
+
+Project Members :-
+
+Talal Haider (Team lead)
+Naseebullah
+Nasar Ahmed
+Muhammad Zain 
+Sultan Moatasim
+
+
+----------------------------
 
 ## 🎯 Executive Abstract & Core Value Proposition
 
